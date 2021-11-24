@@ -35,7 +35,7 @@ Portfolio Projects completed can be found as links below.
   - Product Data Analysis for Social Networking Platform Using SQL: Validating A/B Testing
 
 ## Statistics for Business Analytics & Data Science A-Z (links coming soon...)
-  - A/B Test Results in Tableau - Analyzing Wikipedia's New Search Functionality
+  - [A/B Test Results in Tableau - Analyzing Wikipedia's New Search Functionality](https://public.tableau.com/app/profile/kristopher.rebman/viz/ABTestResultsAnalysis2021/ABTestResultsAnalysis)
 
 ## Machine Learning A-Z (links coming soon...)
   - Regression:
