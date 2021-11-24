@@ -20,7 +20,7 @@ I first went through following the specialization in Data Wrangling and then wen
 
 Portfolio Projects completed can be found as links below.
 
-## Tableau 2020 (links coming soon...)
+## Tableau 2020
   - [Understanding the Australian Housing Market Boom](https://public.tableau.com/app/profile/kristopher.rebman/viz/AustralianHousingMarketAnalysis2021/Story1?publish=yes)
   - [The Decline of Console Games Sales](https://public.tableau.com/app/profile/kristopher.rebman/viz/ConsoleGamesSalesDecline2021/ConsoleGameSalesAnalysis?publish=yes)
 
