@@ -22,7 +22,7 @@ Portfolio Projects completed can be found as links below.
 
 ## Tableau 2020 (links coming soon...)
   - [Understanding the Australian Housing Market Boom](https://public.tableau.com/app/profile/kristopher.rebman/viz/AustralianHousingMarketAnalysis2021/Story1?publish=yes)
-  - The Decline of Console Games Sales
+  - [The Decline of Console Games Sales](https://public.tableau.com/app/profile/kristopher.rebman/viz/ConsoleGamesSalesDecline2021/ConsoleGameSalesAnalysis?publish=yes)
 
 ## Python A-Z (links coming soon...)
   - Core Programming Principles: The Law of Large Numbers
