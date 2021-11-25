@@ -25,7 +25,7 @@ Portfolio Projects completed can be found as links below.
   - [The Decline of Console Games Sales](https://public.tableau.com/app/profile/kristopher.rebman/viz/ConsoleGamesSalesDecline2021/ConsoleGameSalesAnalysis?publish=yes)
 
 ## Python A-Z (links coming soon...)
-  - Core Programming Principles: The Law of Large Numbers
+  - Core Programming Principles: [The Law of Large Numbers](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Law%20of%20Large%20Numbers%20Homework%20Challenge.ipynb)
   - Fundamentals of Python: Financial Statement Analysis
   - Matrices: Basketball Free Throws
   - Data Frames: World Trends
