@@ -29,7 +29,7 @@ Portfolio Projects completed can be found as links below.
   - Fundamentals of Python: [Financial Statement Analysis](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Financial%20Statement%20Analysis%20Homework%20Challenge.ipynb)
   - Matrices: [Basketball Free Throws](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Free%20Throws%20Homework%20Challenge.ipynb)
   - Data Frames: [World Trends](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/World%20Trends%20Homework%20Challenge.ipynb)
-  - Advanced Visualization: Movie % Domestic Gross
+  - Advanced Visualization: [Movie % Domestic Gross](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Movie%20Domestic%20Gross%20Homework%20Challenge.ipynb)
 
 ## SQL & Database Design A-Z (links coming soon...)
   - Product Data Analysis for Social Networking Platform Using SQL: Validating A/B Testing
