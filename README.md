@@ -37,7 +37,8 @@ Portfolio Projects completed can be found as links below.
 ## Statistics for Business Analytics & Data Science A-Z
   - [A/B Test Results in Tableau - Analyzing Wikipedia's New Search Functionality](https://public.tableau.com/app/profile/kristopher.rebman/viz/ABTestResultsAnalysis2021/ABTestResultsAnalysis)
 
-## Machine Learning A-Z (links coming soon...)
+## Machine Learning A-Z
+Template code (c) Kirill Eremenko www.superdatascience.com
   - Regression:
     - Simple Linear Regression
     - Multiple Linear Regression
