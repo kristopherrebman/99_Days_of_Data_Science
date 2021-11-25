@@ -40,15 +40,15 @@ Portfolio Projects completed can be found as links below.
 ## Machine Learning A-Z
 Template code (c) Kirill Eremenko www.superdatascience.com
   - Regression:
-    - Simple Linear Regression
-    - Multiple Linear Regression
+    - [Simple Linear Regression](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Simple%20Linear%20Regression.ipynb)
+    - [Multiple Linear Regression](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Multiple%20Linear%20Regression.ipynb)
   - Classification:
-    - Logistic Regression
-    - K-Nearest Neighbors
-    - Supprt Vector Machine
+    - [Logistic Regression](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Logistic%20Regression.ipynb)
+    - [K-Nearest Neighbors](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/K-Nearest%20Neighbors.ipynb)
+    - [Supprt Vector Machine](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Support%20Vector%20Machine.ipynb)
   - Clustering:
-    - K-Means Clustering
-    - Heirarchical Clustering
+    - [K-Means Clustering](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/K-Means%20Clustering.ipynb)
+    - [Heirarchical Clustering](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Hierarchical%20Clustering.ipynb)
 
 ## Data Manipulation in Python: A Pandas Crash Course (links coming soon...)
   - US Working Visa Analysis
