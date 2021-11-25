@@ -32,7 +32,7 @@ Portfolio Projects completed can be found as links below.
   - Advanced Visualization: [Movie % Domestic Gross](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Movie%20Domestic%20Gross%20Homework%20Challenge.ipynb)
 
 ## SQL & Database Design A-Z (links coming soon...)
-  - Product Data Analysis for Social Networking Platform Using SQL: INvestigating a Drop in User Engagement
+  - Product Data Analysis for Social Networking Platform Using SQL: [Investigating a Drop in User Engagement](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/SQL_Assignment.md)
 
 ## Statistics for Business Analytics & Data Science A-Z
   - [A/B Test Results in Tableau - Analyzing Wikipedia's New Search Functionality](https://public.tableau.com/app/profile/kristopher.rebman/viz/ABTestResultsAnalysis2021/ABTestResultsAnalysis)
