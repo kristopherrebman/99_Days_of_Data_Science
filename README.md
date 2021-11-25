@@ -50,9 +50,9 @@ Template code (c) Kirill Eremenko www.superdatascience.com
     - [K-Means Clustering](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/K-Means%20Clustering.ipynb)
     - [Heirarchical Clustering](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Hierarchical%20Clustering.ipynb)
 
-## Data Manipulation in Python: A Pandas Crash Course (links coming soon...)
-  - US Working Visa Analysis
-  - Global Temperatures Visualization
-  - UFO Sightings in North America
+## Data Manipulation in Python: A Pandas Crash Course
+  - [US Working Visa Analysis](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/US%20Working%20Visas%20Project.ipynb)
+  - [Global Temperatures Visualization](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Global%20Temperatures%20Visualization.ipynb)
+  - [UFO Sightings in North America](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Case%20Study%20UFO%20Sightings.ipynb)
 
 
