@@ -24,10 +24,10 @@ Portfolio Projects completed can be found as links below.
   - [Understanding the Australian Housing Market Boom](https://public.tableau.com/app/profile/kristopher.rebman/viz/AustralianHousingMarketAnalysis2021/Story1?publish=yes)
   - [The Decline of Console Games Sales](https://public.tableau.com/app/profile/kristopher.rebman/viz/ConsoleGamesSalesDecline2021/ConsoleGameSalesAnalysis?publish=yes)
 
-## Python A-Z (links coming soon...)
+## Python A-Z
   - Core Programming Principles: [The Law of Large Numbers](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Law%20of%20Large%20Numbers%20Homework%20Challenge.ipynb)
   - Fundamentals of Python: [Financial Statement Analysis](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Financial%20Statement%20Analysis%20Homework%20Challenge.ipynb)
-  - Matrices: Basketball Free Throws
+  - [Matrices: Basketball Free Throws](https://github.com/kristopherrebman/99_Days_of_Data_Science/blob/main/Notebooks/Free%20Throws%20Homework%20Challenge.ipynb)
   - Data Frames: World Trends
   - Advanced Visualization: Movie % Domestic Gross
 
